@@ -1,0 +1,4 @@
+.vs
+block game/bin
+block game/obj
+block game/properties
